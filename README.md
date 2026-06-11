@@ -12,61 +12,56 @@ Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern W
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 IT Graduate from Wollo University
-- 💻 Currently learning JavaScript and modern web development
-- 🌱 Exploring Frontend and Backend Technologies
-- 🔥 Passionate about software engineering and problem-solving
-- 🎯 Goal: Become a professional Full-Stack Developer
-- ⚡ Building projects consistently to improve my skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Seid+Endris+Ali;Aspiring+Full-Stack+Developer;JavaScript+Learner+%F0%9F%92%BB;Building+Modern+Web+Projects;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+New+Technologies"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌌 About Me
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+javascript
+const seid = {
+    location: "Ethiopia 🇪🇹",
+    education: "IT Graduate - Wollo University",
+    currentlyLearning: [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Backend Development"
+    ],
+    passions: [
+        "Web Development",
+        "Software Engineering",
+        "Problem Solving",
+        "Building Useful Applications"
+    ],
+    goals: [
+        "Become a Full-Stack Developer",
+        "Build Real-World Projects",
+        "Contribute to Open Source",
+        "Get Remote Opportunities"
+    ]
+};
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma&perline=6" />
+
+</div>
+
+---
 
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- Building responsive web applications
-- Improving JavaScript skills
-- Learning React and backend development
-- Contributing to open-source projects
-- Creating professional portfolio projects
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SeidEndrisA&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Goals for 2026
-
-✅ Build strong portfolio projects  
-✅ Master JavaScript  
-✅ Learn React & Backend Development  
-✅ Contribute to Open Source  
-✅ Get Remote Developer Opportunities  
 
 ---
 
@@ -82,6 +77,9 @@ Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern W
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
+<a href="https://github.com/SeidEndrisA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
