@@ -1,14 +1,8 @@
-<h1 align="center">Hi 👋, I'm Seid Endris Ali</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern Web Applications
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:000428&text=Seid%20Endris%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20🚀&descAlignY=57&descSize=20"/>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;JavaScript+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
-</p>
+</div>
 
 ---
 
@@ -23,7 +17,6 @@ Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern W
 # 🌌 About Me
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-javascript
 const seid = {
     location: "Ethiopia 🇪🇹",
     education: "IT Graduate - Wollo University",
@@ -58,38 +51,74 @@ const seid = {
 
 ---
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+# 🚀 Current Focus
+
+<div align="center">
+
+| 🔥 Learning | 🚀 Building | 🎯 Goal |
+|---|---|---|
+| JavaScript | Portfolio Projects | Full-Stack Developer |
+| React | Responsive Websites | Remote Opportunities |
+| Backend Development | GitHub Projects | Open Source Contributions |
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/seid-endris">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seidea63@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<a href="mailto:seidea63@gmai.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SeidEndrisA">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+# 🎧 Coding Vibes
 
-> "Consistency beats intensity in software development."
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile 🚀
-</p>
+# 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+> "Small daily improvements become massive long-term results."
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting My Profile
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:000428"/>
+
+</div>
