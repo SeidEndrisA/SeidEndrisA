@@ -13,33 +13,50 @@
 </div>
 
 ---
-
 # 🌌 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
----
+<table>
+<tr>
+<td width="60%">
+
+```javascript
 const seid = {
-    location: "Ethiopia 🇪🇹",
-    education: "IT Graduate - Wollo University",
-    currentlyLearning: [
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Backend Development"
-    ],
-    passions: [
-        "Web Development",
-        "Software Engineering",
-        "Problem Solving",
-        "Building Useful Applications"
-    ],
-    goals: [
-        "Become a Full-Stack Developer",
-        "Build Real-World Projects",
-        "Contribute to Open Source",
-        "Get Remote Opportunities"
-    ]
+  location: "Ethiopia 🇪🇹",
+  education: "IT Graduate - Wollo University",
+
+  currentlyLearning: [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Backend Development"
+  ],
+
+  passions: [
+    "Web Development",
+    "Software Engineering",
+    "Problem Solving",
+    "Building Useful Applications"
+  ],
+
+  goals: [
+    "Become a Full-Stack Developer",
+    "Build Real-World Projects",
+    "Contribute to Open Source",
+    "Get Remote Opportunities"
+  ]
 };
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 # ⚡ Tech Stack
