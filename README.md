@@ -52,18 +52,6 @@ Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern W
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeidEndrisA&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidEndrisA&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
