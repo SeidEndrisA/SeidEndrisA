@@ -1,16 +1,109 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Seid Endris Ali</h1>
 
-<!--
-**SeidEndrisA/SeidEndrisA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern Web Applications
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;JavaScript+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 IT Graduate from Wollo University
+- 💻 Currently learning JavaScript and modern web development
+- 🌱 Exploring Frontend and Backend Technologies
+- 🔥 Passionate about software engineering and problem-solving
+- 🎯 Goal: Become a professional Full-Stack Developer
+- ⚡ Building projects consistently to improve my skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Building responsive web applications
+- Improving JavaScript skills
+- Learning React and backend development
+- Contributing to open-source projects
+- Creating professional portfolio projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Goals for 2026
+
+✅ Build strong portfolio projects  
+✅ Master JavaScript  
+✅ Learn React & Backend Development  
+✅ Contribute to Open Source  
+✅ Get Remote Developer Opportunities  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/seid-endris">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:seidea63@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Consistency beats intensity in software development."
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🚀
+</p>
