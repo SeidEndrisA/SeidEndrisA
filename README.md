@@ -1,89 +1,66 @@
-<h1 align="center">Hi 👋, I'm Seid Endris Ali</h1>
+# Hi 👋, I'm Seid Endris Ali
 
-<h3 align="center">
-Aspiring Full-Stack Developer | IT Graduate | Passionate About Building Modern Web Applications
-</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;JavaScript+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
-</p>
+### Full-Stack Software Engineer | React, TypeScript & Node.js
+Based in **Semera, Ethiopia** • Open to Freelance & Remote Roles
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 IT Graduate from Wollo University
-- 💻 Currently learning JavaScript and modern web development
-- 🌱 Exploring Frontend and Backend Technologies
-- 🔥 Passionate about software engineering and problem-solving
-- 🎯 Goal: Become a professional Full-Stack Developer
-- ⚡ Building projects consistently to improve my skills
+- 💻 **Full-Stack Developer** passionate about building fast, scalable, and user-focused web applications.
+- 🎓 **B.Sc. in Information Technology** from Wollo University (Graduated with Distinction).
+- 🛠️ **Current Focus:** Deepening expertise in TypeScript architecture, backend design patterns, and cloud deployment.
+- 🌐 **Portfolio:** [seidali.dev.et](https://seidali.dev.et/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+**Frontend**  
+`React` • `TypeScript` • `Next.js` • `Tailwind CSS` • `Framer Motion` • `HTML5/CSS3`
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Backend & Databases**  
+`Node.js` • `Express` • `REST APIs` • `MongoDB` • `PostgreSQL` • `GraphQL`
 
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
+**DevOps & Tooling**  
+`Git` • `GitHub Actions` • `Vercel` • `Docker` • `Vite` • `Zod` • `React Hook Form`
 
 ---
 
-## 📌 Current Focus
+## 📁 Featured Projects
 
-- Building responsive web applications
-- Improving JavaScript skills
-- Learning React and backend development
-- Contributing to open-source projects
-- Creating professional portfolio projects
+### 🚀 [Freelance Flow](https://github.com/SeidEndrisA/Freelance-Flow)
+> A productivity tool for solo freelancers to manage clients, projects, and tasks in one place.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Vercel
+- Built and shipped a focused MVP with client, project, and task workflows.
+
+### 🍔 [Wow Burger](https://github.com/SeidEndrisA)
+> Localized digital menu and real-time administration console designed for a restaurant.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Vercel
+- Delivered a live bilingual digital menu (English/Amharic) with theme toggles and admin synchronization.
+
+### 🏢 [Siltawi Digitals](https://github.com/SeidEndrisA)
+> Corporate landing page and client portal simulation for a digital marketing agency.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Vercel
+- Interactive case study gallery with category filtering and authorization gates.
 
 ---
 
-## 🏆 Goals for 2026
+## ⚡ Currently Building
 
-✅ Build strong portfolio projects  
-✅ Master JavaScript  
-✅ Learn React & Backend Development  
-✅ Contribute to Open Source  
-✅ Get Remote Developer Opportunities  
+- 🤖 **AI Portfolio Assistant:** Integrating Gemini AI for an interactive chatbot experience.
+- 🔐 **Backend API Development:** Node.js REST APIs with JWT authentication, validation, and error handling.
+- ⚙️ **CI/CD Workflows:** Automated testing, linting, and deployment pipelines using GitHub Actions.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/seid-endris">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:seidea63gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</p>
+- **Portfolio:** [seidali.dev.et](https://seidali.dev.et/)
+- **Email:** [seidea63@gmail.com](mailto:seidea63@gmail.com)
+- **LinkedIn:** [Seid Endris](https://www.linkedin.com/in/seid-endris)
+- **X (Twitter):** [@Seid_EA](https://x.com/Seid_EA)
 
 ---
 
-## ⚡ Fun Fact
-
-> "Consistency beats intensity in software development."
-
----
-
-<p align="center">
-  Thanks for visiting my profile 🚀
-</p>
+*“Clean architecture and maintainable code are priorities, not afterthoughts.”*
